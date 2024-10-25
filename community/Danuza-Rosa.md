@@ -15,7 +15,7 @@
 
 
 ### 📊 Estatísticas no GitHub
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
+![Danuza Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=danuza-rosa&show_icons=true&theme=dracula)
 
 
 
